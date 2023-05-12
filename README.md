@@ -1,4 +1,4 @@
-# PROJECTO 3
+# PROYECTO 3
 ## INCREMENTO DE ALQUILERES EN LOS ULTIMOS 3 ANOS 
 
 En este projecto analizare el incremento de precio en la ciudad de Barcelona y ver si este se ve afectado por un factor externo (COVID - TURISMO)
